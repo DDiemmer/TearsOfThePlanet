@@ -1,6 +1,8 @@
 # TearsOfThePlanet
 # Project to Learn Unreal 
 
+The project temporarily stopped, because all models were created by me and I'm remodeling the main character from scratch to improve the animation.
+
 [![tearsoftheplanetThumb](https://user-images.githubusercontent.com/19962199/126582317-b6b59b33-4751-4d01-b684-f977d8cbd148.PNG)](https://youtu.be/FO0I7QiTbdU "Video Testando")
 
 # Images
