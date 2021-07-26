@@ -1,7 +1,7 @@
 # TearsOfThePlanet
 # Project to Learn Unreal 
 
-# NOTE: The full code is on the development branch because the code is WIP, and this project was created to learn about engines.  the final project will be refactored in a new project with clean code.
+### NOTE: The full code is on the development branch because the code is WIP, and this project was created to learn about engines.  the final project will be refactored in a new project with clean code. 
 
 The project temporarily stopped, because all models were created by me and I'm remodeling the main character from scratch to improve the animation.
 
